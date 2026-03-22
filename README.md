@@ -578,6 +578,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [AlexVagrant/monad-mcp](https://github.com/AlexVagrant/monad-mcp): Facilitates querying MON token balances on the Monad testnet through an MCP server integrated with Claude Desktop.
 - [apimatic/pnz-mcp-server](https://github.com/apimatic/pnz-mcp-server): Facilitates secure payment transactions through the PaymentsNZ MCP server, integrating with Claude Desktop for streamlined operations.
 - [kukapay/etf-flow-mcp](https://github.com/kukapay/etf-flow-mcp): Delivers crypto ETF flow data to enhance AI agents' decision-making capabilities.
+- [ElromEvedElElyon/revenue-mcp](https://github.com/ElromEvedElElyon/revenue-mcp) 📇 🏠 - Revenue Intelligence MCP with 11 tools for bounty tracking, crypto monitoring, product management, and AI agent coordination. Anti-scam verification included.
 - [nvmmonkey/Rootdata-MCP](https://github.com/nvmmonkey/Rootdata-MCP): Integrate RootData's crypto asset data into AI applications with a comprehensive MCP server offering detailed analysis, market trends, and ecosystem mapping.
 - [rawakinode/monad-bridge-mcp-server](https://github.com/rawakinode/monad-bridge-mcp-server): Facilitates bridging between Ethereum Sepolia and Monad Testnet networks using the Wormhole bridge.
 - [Xiawpohr/metamask-mcp](https://github.com/Xiawpohr/metamask-mcp): Facilitates blockchain interactions through MetaMask while ensuring private key security during LLM operations.
